@@ -1,7 +1,7 @@
 # WeatherCloset
 
 ## Overview
-**WeatherCloset** is a mobile application designed to help users categorize and recognize items based on weather conditions. We’re building this using cutting-edge technologies, including **Dart**, **Flutter**, **TensorFlow**, **Firebase**, and **Firestore**. The goal is to create a seamless experience for users to get intelligent suggestions about clothing based on weather data.
+**WeatherCloset** is a mobile application designed to help users categorize and recognize items based on weather conditions. We’re building this using new and exciting technologies, including **Dart**, **Flutter**, **TensorFlow**, **Firebase**, and **Firestore**. The goal is to create a seamless experience for users to get intelligent suggestions about clothing based on weather data in their area with just a click.
 
 ## Technologies
 - **Dart** & **Flutter**: For building the mobile application.
