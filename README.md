@@ -5,7 +5,7 @@
 
 ## Technologies
 - **Dart** & **Flutter**: For building the mobile application.
-- **Firebase & Firestore**: For backend services, data storage, and real-time updates.
+- **Firebase & Firestore**: For backend services, data storage, and real-time updates and user-authentication.
 - **TensorFlow**: For AI-powered item recognition and categorization.
 - **API Integration**: For fetching real-time weather data to make clothing recommendations.
 
